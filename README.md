@@ -1,5 +1,5 @@
 Hello world!
-- My name is Harrison Halperin. I'm a systems analyst, software developer, and aspiring machine learning engineer based in San Diego. 
+- My name is Harrison Halperin. I'm a systems analyst, software developer, and aspiring solutions engineer based in San Diego. 
 I am currently pursuing a degree in Management Information Systems and delving into the realms of automation and innovation. 
 Python is my go-to language, especially when it comes to Data Analytics. 
 My current mission is to deepen my understanding of Machine Learning (ML) and Artificial Intelligence (AI), with a particular focus on Large Language Models and ML frameworks like Pytorch.
