@@ -8,7 +8,7 @@ My current mission is to deepen my understanding of Machine Learning (ML) and Ar
 
 Systems Analyst Intern at Consolidated Electrical Distributors, Inc. (Jan 2023 - October 2023)
 - Spearheading solution delivery for system analysis projects, focusing on order fulfillment and warehouse management system inefficiencies.
-- Championing data analytics with Python and SQL on extensive datasets, and automating category classification using OpenAI GPT-4 API.
+- Championing data analytics with Python and SQL on extensive datasets, and automating warehouse inventory category classification using OpenAI GPT-4 API.
 
 Passion Project: Scalable AI-Optimized Market Analytics Engine for Trading (Jul 2023 - Present)
 - Engrossed in developing a scalable infrastructure for real-time and historical market data analysis, with a focus on sentiment analysis using LLMs on news data.
