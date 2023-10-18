@@ -6,7 +6,7 @@ My current mission is to deepen my understanding of Machine Learning (ML) and Ar
 
 🌱 Current Engagements
 
-Systems Analyst Intern at Consolidated Electrical Distributors, Inc. (Jan 2023 - Present)
+Systems Analyst Intern at Consolidated Electrical Distributors, Inc. (Jan 2023 - October 2023)
 - Spearheading solution delivery for system analysis projects, focusing on order fulfillment and warehouse management system inefficiencies.
 - Championing data analytics with Python and SQL on extensive datasets, and automating category classification using OpenAI GPT-4 API.
 
