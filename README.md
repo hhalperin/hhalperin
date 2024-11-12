@@ -1,6 +1,6 @@
 I'm Harrison.
 
-Sometime's I write code.
+Sometimes I write code.
 
 I like the bridge between tech & finance.
 
