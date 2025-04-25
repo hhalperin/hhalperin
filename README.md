@@ -1,8 +1,4 @@
-I'm Harrison.
-
-I just want to make models and optimize them.
-
-I like the bridge between tech & finance, and I want to utilize cloud when it makes sense.
-
-I'm passionate about optimization, automation, ML/AI, and cloud stuff.
-
+Hi, I'm Harrison 👋
+I build models, optimize systems, and automate anything that wastes time.
+I'm passionate about the bridge between tech and finance — and using cloud when it actually makes sense.
+Right now, I'm focused on optimization, automation, ML/AI, and building infrastructure that's simple, scalable, and resilient.
